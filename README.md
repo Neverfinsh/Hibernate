@@ -1,0 +1,1 @@
+Hibernate的学习；主要是学习hibernate的一些orm的性质和学习；
